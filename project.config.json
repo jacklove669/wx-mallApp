@@ -49,15 +49,8 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 4,
+			"current": -1,
 			"list": [
-				{
-					"id": -1,
-					"name": "page/component/details/details",
-					"pathName": "page/component/details/details",
-					"query": "",
-					"scene": null
-				},
 				{
 					"id": 1,
 					"name": "列表",
@@ -83,6 +76,7 @@
 					"id": -1,
 					"name": "我的",
 					"pathName": "page/component/user/user",
+					"query": "",
 					"scene": null
 				}
 			]
