@@ -18,11 +18,12 @@
 			"ignore": [],
 			"disablePlugins": [],
 			"outputPath": ""
-		}
+		},
+		"uglifyFileName": true
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.9.4",
-	"appid": "wx9842ead267e8d37e",
+	"appid": "wxc079356d714a6c35",
 	"projectname": "wxapp-mall",
 	"isGameTourist": false,
 	"simulatorType": "wechat",
